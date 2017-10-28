@@ -1,0 +1,13 @@
+Write-Host "Hello World!"
+
+<# or....#>
+
+$username= "Bob"
+
+Write-Host "Hello, $username" 
+
+<# or...>
+
+$user = Read-Host "Enter name"
+
+Write-host "Hello, $user"
