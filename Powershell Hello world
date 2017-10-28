@@ -11,3 +11,7 @@ Write-Host "Hello, $username"
 $user = Read-Host "Enter name"
 
 Write-host "Hello, $user"
+
+Echo???
+
+maybe invoke-command on another machine?
